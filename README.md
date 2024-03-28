@@ -2,7 +2,7 @@
 - 👀 I’m interested in using Femometer
 - 🌱 I’m currently learning Femometer
 - 💞️ I’m looking to collaborate on Femometer
-- 📫 How to reach me Femometer
+- 📫 How to reach me Femometer's website on github.
 - 😄 Pronouns: Femo/Meter
 - ⚡ Fun fact: I use femometer
 
